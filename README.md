@@ -2,8 +2,8 @@
 
 **How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
 
-- When creating programs I try to follow a standard naming conventions that many users will quickly understand, I also try and keep my code as modular as possible while still achieving the desired results I am looking for,
- Although I could have implemented 1 read function within my CRUD.py that allowed me to pass a deciding factor to determine if I needed to read many or read one I separated the methods for learning sake during this project.
+- When creating programs, I try to follow a standard naming conventions that many users will quickly understand, I also try and keep my code as modular as possible while still achieving the desired results I am looking for,
+ Although I could have implemented 1 read function within my CRUD.py that allowed me to pass a deciding factor to determine if I needed to read many or read one, I separated the methods for learning sake during this project.
  Creating modular code allows for clean and organized code that will allow for quick troubleshooting and easy modifications to be made without breaking or refactoring an entire class.
  This CRUD module could be used in the future to allow users to create new animals to enter into the database as well as remove them, additionally more methods could be added to achieve any requirements the client wished to have.
 
